@@ -47,6 +47,6 @@ Refer to the uploaded video for a clear working of app and features
 
 ## Other Contributers
 
-* Sankalp Bahad
+* Yash Kawade
 * Aabid Raina
 * Abhinay Maurya
